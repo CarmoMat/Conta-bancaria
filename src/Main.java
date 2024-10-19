@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         String nome = "Matheus henrique";
         String tipoConta = "Corrente";
-        Double saldo = 1500.00;
+        Double saldo = 1500.10;
         int opcao = 0;
 
         System.out.println("***************************");
