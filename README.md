@@ -20,11 +20,11 @@ Este projeto é um sistema interativo de gerenciamento de contas bancárias em J
 ## Exemplo de Execução
 
 ```plaintext
-***************************
+****************************
 Nome do cliente: Matheus Henrique
 Tipo conta: Corrente
 Saldo atual: R$1500.10
-***************************
+****************************
 
 ** Digite sua opção **
 
